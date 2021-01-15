@@ -106,7 +106,14 @@
 .secondary_header ul li:hover a {
 	color: #2C9AB7;
 }
-
+.full_article {
+		background-color: #FFFFFF;
+		width: 100%;
+		float: left;
+		font-family: "Source Sans Pro";
+		color: #343434;
+		padding-bottom: 15px;
+}
 .left_article {
 	background-color: #FFFFFF;
 	width: 60%;
