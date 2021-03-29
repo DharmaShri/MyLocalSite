@@ -1,44 +1,45 @@
-<!doctype html>
+<!DOCTYPE html>
 <html>
-<head>
-<meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Research</title>
-<link href="../css/multiColumnTemplate.css" rel="stylesheet" type="text/css">
-<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-</head>
-<body>
-<div class="container">
-  <header>
-    <div class="primary_header"><h1 class="title">මාර්ගය</h1></div>
-    <!-- ---------------- MENU ------------------------ -->
-    <nav class="secondary_header" id="menu">
-      <ul>
-        <li><a href="../index.html">HOME</a></li>
-        <li><a href="අධ්‍යයනය.html">අධ්‍යයනය</a></li>
-        <li><a href="දීඝනිකාය.html">දීඝනිකාය</a></li>
-        <li><a href="මාර්ගය.html">මාර්ගය</a></li>
-        <li><a href="සංෂිප්ත.html">සංෂිප්ත</a></li>
-      </ul>
-    </nav>
-  </header>
-  <!-- ----------------- ARTICLE ----------------------- -->
-  <section>
-    <h2 class="noDisplay">Main Content</h2>
-    <article class="full_article">
-         <h2 id="සංෂිප්ත">සංෂිප්ත</h2>
-
-
-
-    </article>
-    </section>
-
-    <!-- ------------------ FOOTER ---------------------- -->
-  <footer class="secondary_header footer">
-    <div class="copyright">&copy;2020 - <strong>Research</strong></div>
-  </footer>
-</div>
-</body>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Research</title>
+    <link href="../css/multiColumnTemplate.css" rel="stylesheet" type="text/css">
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+  </head>
+  <body>
+    <div class="container">
+      <header>
+        <div class="primary_header">
+          <h1 class="title">මාර්ගය</h1>
+        </div>
+        <!-- ---------------- MENU ------------------------ -->
+        <nav class="secondary_header" id="menu">
+          <ul>
+            <li><a href="../index.html">HOME</a></li>
+            <li><a href="%E0%B6%85%E0%B6%B0%E0%B7%8A%E2%80%8D%E0%B6%BA%E0%B6%BA%E0%B6%B1%E0%B6%BA.html">අධ්‍යයනය</a></li>
+            <li><a href="%E0%B6%AF%E0%B7%93%E0%B6%9D%E0%B6%B1%E0%B7%92%E0%B6%9A%E0%B7%8F%E0%B6%BA.html">දීඝනිකාය</a></li>
+            <li><a href="%E0%B6%B8%E0%B7%8F%E0%B6%BB%E0%B7%8A%E0%B6%9C%E0%B6%BA.html">මාර්ගය</a></li>
+            <li><a href="%E0%B7%83%E0%B6%82%E0%B7%82%E0%B7%92%E0%B6%B4%E0%B7%8A%E0%B6%AD.html">සංෂිප්ත</a></li>
+          </ul>
+        </nav>
+      </header>
+      <!-- ----------------- ARTICLE ----------------------- -->
+      <section>
+        <h2 class="noDisplay">Main Content</h2>
+        <article class="full_article">
+          <h2 id="සංෂිප්ත">සංෂිප්ත</h2>
+          <p>&nbsp; <a href="https://tipitaka.lk/an-4-4-3-5/pali" title="උබවාන">උපවාන
+              සූත්‍රය</a> - විද්‍යාවෙන් පමණක් හෝ චරණයෙන් පමණක් හෝ විද්‍යාචරණයෙන්
+            හෝ විද්‍යාචරණයෙන් තොරව හෝ අවබෝධය සිදුනොවේ.</p>
+        </article>
+      </section>
+      <!-- ------------------ FOOTER ---------------------- -->
+      <footer class="secondary_header footer">
+        <div class="copyright">©2020 - <strong>Research</strong></div>
+      </footer>
+    </div>
+  </body>
 </html>
