@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js_script(document.currentScript); }
+
+__d("MBookmarksJewel",["MJewel","MJewels"],(function(a,b,c,d,e,f,g){var h=!1;function a(a){if(h)return;h=!0;c("MJewel").create("bookmarks",{softState:d("MJewels").BOOKMARKS,noPopover:!!a.noFlyout,additionalPaths:["/bookmarks/"]})}g.initJewel=a}),98);
